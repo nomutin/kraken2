@@ -7,7 +7,7 @@
 
 ## 🐙Clone
 ~~~
-https://github.com/nomutin/kraken2.git
+git clone https://github.com/nomutin/kraken2.git
 ~~~
 
 ## 🦑Usage
